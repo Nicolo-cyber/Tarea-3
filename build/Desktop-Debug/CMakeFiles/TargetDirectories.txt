@@ -1,0 +1,5 @@
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/Desktop-Debug/CMakeFiles/camino_corto_qt.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/Desktop-Debug/CMakeFiles/camino_corto_qt_autogen_timestamp_deps.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/Desktop-Debug/CMakeFiles/camino_corto_qt_autogen.dir

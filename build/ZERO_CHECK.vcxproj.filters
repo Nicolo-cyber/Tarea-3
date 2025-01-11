@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nico3\OneDrive\Escritorio\Documentos\camino_corto_qt\build\CMakeFiles\84ff938f8f880cb0e44b65cb4bda1dce\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{35FA18D7-93D1-3C2D-BB24-14C94EC9FDFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

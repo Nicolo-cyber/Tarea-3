@@ -1,0 +1,4 @@
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/CMakeFiles/camino_corto_qt.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/CMakeFiles/INSTALL.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nico3/OneDrive/Escritorio/Documentos/camino_corto_qt/build/CMakeFiles/ZERO_CHECK.dir
